@@ -20,13 +20,13 @@ __Supervised Learning__
 
 _Regression_
 
--[ ] Linear Regression Intro and Basic Implementation
--[ ] Math behind Linear Regression
--[ ] Examples 
+- [ ] Linear Regression Intro and Basic Implementation
+- [ ] Math behind Linear Regression
+- [ ] Examples 
 
 _Categorization_
 
--[ ] Logistic Regression
--[ ] Math behind Logistic Regression
--[ ] Examples
+- [ ] Logistic Regression
+- [ ] Math behind Logistic Regression
+- [ ] Examples
 
